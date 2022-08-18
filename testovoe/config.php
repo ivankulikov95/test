@@ -5,8 +5,8 @@ define('TELEGRAM_CHAT_ID', '-1001727218864');
 define('RECAPTCHA_SITE_KEY', '6LcO854eAAAAAG-UTSMPE-PlmVPSLs7WnfgBtyau');
 define('RECAPTCHA_SECRET_KEY', '6LcO854eAAAAAFMVVXmadwIdy-GOO9R_Q5art13R');
 
-$title = 'Дезинфекция офисов и квартир';
-$description = 'Услуги дезинфектора, обработка офисов и квартир';
+$title = '';
+$description = '';
 
 $phone = '';
 $phone_href = '';
