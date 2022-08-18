@@ -35,7 +35,7 @@
                         <p>Максимально быстрое воздействие на организм благодаря<br> усовершенствованной формуле</p>
                         <li>Длительный эффект</li>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br> Magni, officia?</p>
-                        <li>Стоит пися</li>
+                        <li>Третий эффект</li>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br> Magni, officia?</p>
                     </ul>
                     <a href="#box" class="btn btn-sm custom-button animate-button">Оставить заявку</a>
